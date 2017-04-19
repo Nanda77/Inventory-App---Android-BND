@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Apple Inventory</string>
+    <string name="detail_activity_title_new_product">Add New Product</string>
+    <string name="detail_activity_title_edit_product">Edit Product</string>
+    <string name="insert_product_failed">Insert Operation Failed</string>
+    <string name="insert_product_successful">Product Inserted Successfully</string>
+    <string name="update_product_failed">Product updation Failed</string>
+    <string name="update_product_successful">Product update Success</string>
+    <string name="delete_product_failed">Product Delete Failed!</string>
+    <string name="delete_product_successful">Product Delete Success</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this Product?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="order_summary_email_subject">Request for Supplies</string>
+    <string name="no_stock">Out of Stock</string>
+    <string name="mandatory">Name and Price fields Mandatory!!</string>
+    <string name="invalid_number">Invalid Number Input</string>
+</resources>
